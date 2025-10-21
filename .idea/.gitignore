@@ -7,3 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 .idea
+/concurrency.iml
+/modules.xml
+/dictionaries/project.xml
+/vcs.xml
